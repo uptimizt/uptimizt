@@ -4,7 +4,7 @@
 ## I'm web developer and team-lead
 
 - Main languages: PHP, JS
-- Lear: Go & Rust
+- Learn: Go & Rust
 - PHP: WP, WooCommerce, Laravel, Symfony
 - JS & Frontend: ReactJS, GatsbyJS, PWA, Material UI, Bootstrap, TailwindCSS
 
