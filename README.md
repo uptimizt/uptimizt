@@ -5,6 +5,7 @@
 
 - Main languages: PHP, JS
 - Learn: Go & Rust
+- Earlier: 1C, RoR, Delphi
 - PHP: WP, WooCommerce, Laravel, Symfony
 - JS & Frontend: ReactJS, GatsbyJS, PWA, Material UI, Bootstrap, TailwindCSS
 
