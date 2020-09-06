@@ -7,9 +7,9 @@
 - Learn: Go & Rust
 - Earlier: 1C, RoR, Delphi
 - PHP: WP, WooCommerce, Laravel, Symfony
-- FE, JS & JAMStack: ReactJS, GatsbyJS, PWA & DPWA, Material UI, Bootstrap, TailwindCSS
+- FrontEnd & JAMStack: ReactJS, GatsbyJS, PWA & DPWA, Material UI, Bootstrap, TailwindCSS
 - DB: MySQL, PosgreSQL, MS SQL, Oracle, Redis, Memcached, ElasticSearch, Algolia
-- OS: Linux, Ubuntu, Docker, Vagrant
+- OS/VM: Linux, Ubuntu, Docker, Vagrant
 
 
 ## Some of my Github Stats
