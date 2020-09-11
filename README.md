@@ -3,11 +3,11 @@
 
 ## I'm web developer and team-lead
 
-- Main languages: PHP, JS
+- Web-dev: PHP, JS
 - Learn: Go & Rust
 - Earlier: 1C, RoR, Delphi
-- PHP: WP, WooCommerce, Laravel, Symfony
-- FrontEnd & JAMStack: ReactJS, GatsbyJS, PWA & DPWA, Material UI, Bootstrap, TailwindCSS
+- PHP: Laravel, Symfony, WP, WooCommerce
+- JS, Frontend: JAMStack, ReactJS, GatsbyJS, PWA & DPWA, Material UI, Bootstrap, TailwindCSS
 - DB: MySQL, PosgreSQL, MS SQL, Oracle, Redis, Memcached, ElasticSearch, Algolia
 - OS/VM: Linux, Ubuntu, Docker, Vagrant
 
