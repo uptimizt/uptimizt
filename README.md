@@ -4,7 +4,7 @@
 ## I'm web developer and team-lead
 
 - Web-dev: PHP, JS
-- Learn: Go & Rust
+- Learning: Go & Rust
 - Backend: PHP, NodeJS, Laravel, Symfony, WP, WooCommerce
 - Frontend: JAMStack, JS, ReactJS, GatsbyJS, PWA & DPWA, Material UI, Bootstrap, TailwindCSS
 - DB: PostgreSQL, MySQL, Redis, Memcached, ElasticSearch, Algolia, MS SQL, Oracle
