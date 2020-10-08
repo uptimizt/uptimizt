@@ -7,7 +7,7 @@
 - Learn: Go & Rust
 - Backend: PHP, NodeJS, Laravel, Symfony, WP, WooCommerce
 - Frontend: JAMStack, JS, ReactJS, GatsbyJS, PWA & DPWA, Material UI, Bootstrap, TailwindCSS
-- DB: PosgreSQL, MySQL, Redis, Memcached, ElasticSearch, Algolia, MS SQL, Oracle
+- DB: PostgreSQL, MySQL, Redis, Memcached, ElasticSearch, Algolia, MS SQL, Oracle
 - OS/VM: Linux, Ubuntu, Docker, Vagrant
 - Earlier: 1C, RoR, Delphi
 
