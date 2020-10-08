@@ -5,12 +5,11 @@
 
 - Web-dev: PHP, JS
 - Learn: Go & Rust
-- Earlier: 1C, RoR, Delphi
-- PHP: Laravel, Symfony, WP, WooCommerce
-- JS, Frontend: JAMStack, ReactJS, GatsbyJS, PWA & DPWA, Material UI, Bootstrap, TailwindCSS
+- Backend: PHP, NodeJS, Laravel, Symfony, WP, WooCommerce
+- Frontend: JAMStack, JS, ReactJS, GatsbyJS, PWA & DPWA, Material UI, Bootstrap, TailwindCSS
 - DB: PosgreSQL, MySQL, Redis, Memcached, ElasticSearch, Algolia, MS SQL, Oracle
 - OS/VM: Linux, Ubuntu, Docker, Vagrant
-
+- Earlier: 1C, RoR, Delphi
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=uptimizt alt=uptimizt /> </p>
