@@ -8,7 +8,7 @@
 - Earlier: 1C, RoR, Delphi
 - PHP: Laravel, Symfony, WP, WooCommerce
 - JS, Frontend: JAMStack, ReactJS, GatsbyJS, PWA & DPWA, Material UI, Bootstrap, TailwindCSS
-- DB: MySQL, PosgreSQL, MS SQL, Oracle, Redis, Memcached, ElasticSearch, Algolia
+- DB: MySQL, PosgreSQL, Redis, Memcached, ElasticSearch, Algolia, MS SQL, Oracle
 - OS/VM: Linux, Ubuntu, Docker, Vagrant
 
 
