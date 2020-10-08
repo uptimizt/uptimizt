@@ -1,7 +1,7 @@
 ## Hey 👋
 [![Gmail Badge](https://img.shields.io/badge/-uptimizt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:uptimizt@gmail.com)](mailto:uptimizt@gmail.com) [![Github Badge](https://img.shields.io/badge/-uptimizt-grey?style=flat&logo=github&logoColor=white&link=https://github.com/uptimizt/)](https://www.github.com/uptimizt/) 
 
-## I'm web developer and team-lead
+## I'm web developer and teamlead
 
 - Web-dev: PHP, JS
 - Learning: Go & Rust
