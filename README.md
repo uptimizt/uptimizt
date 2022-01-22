@@ -9,7 +9,7 @@
 - Micro frameworks: Symfony, Laravel
 - Async frameworks: NodeJS
 - Frontend: JAMStack, JS, ReactJS, GatsbyJS, SvelteJS, SvelteKit, PWA, SPA, SSG, SSR, Material UI, Bootstrap, TailwindCSS
-- DB: PostgreSQL, MySQL, Redis, Memcached, ElasticSearch, Algolia, MS SQL, Oracle
+- DB: PostgreSQL, MySQL, SQLite, Redis, Memcached, ElasticSearch, Algolia
 - OS/VM: Linux, Ubuntu, Docker, Vagrant
 - Earlier: 1C, RoR, Delphi
 
