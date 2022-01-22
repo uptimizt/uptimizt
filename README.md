@@ -1,12 +1,14 @@
 ## Hey 👋
 [![Gmail Badge](https://img.shields.io/badge/-uptimizt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:uptimizt@gmail.com)](mailto:uptimizt@gmail.com) [![Github Badge](https://img.shields.io/badge/-uptimizt-grey?style=flat&logo=github&logoColor=white&link=https://github.com/uptimizt/)](https://www.github.com/uptimizt/) 
 
-## I'm web developer and teamlead
+## I'm web developer
 
-- Web-dev: PHP, JS
-- Learning: Go & Rust
-- Backend: PHP, NodeJS, Laravel, Symfony, WP, WooCommerce
-- Frontend: JAMStack, JS, ReactJS, GatsbyJS, PWA & DPWA, Material UI, Bootstrap, TailwindCSS
+- Favorite stacks: PHP, JS, Python
+- Learning in progress: Go & Rust
+- Full stack frameworks and platforms: WordPress, WooCommerce, Django, Redmine, WHMCS, FreeScout
+- Micro frameworks: Symfony, Laravel
+- Async frameworks: NodeJS
+- Frontend: JAMStack, JS, ReactJS, GatsbyJS, SvelteJS, SvelteKit, PWA, SPA, SSG, SSR, Material UI, Bootstrap, TailwindCSS
 - DB: PostgreSQL, MySQL, Redis, Memcached, ElasticSearch, Algolia, MS SQL, Oracle
 - OS/VM: Linux, Ubuntu, Docker, Vagrant
 - Earlier: 1C, RoR, Delphi
