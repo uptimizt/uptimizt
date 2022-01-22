@@ -6,7 +6,7 @@
 - Favorite stacks: PHP, JS, Python
 - Learning in progress: Go & Rust
 - Full stack frameworks and platforms: WordPress, WooCommerce, Django, Redmine, WHMCS, FreeScout
-- Micro frameworks: Symfony, Laravel
+- Micro frameworks: Laravel, Symfony
 - Async frameworks: NodeJS
 - Frontend: JAMStack, ReactJS, GatsbyJS, SvelteJS, SvelteKit, PWA, SPA, SSG, SSR, Material UI, Bootstrap, TailwindCSS
 - DB: PostgreSQL, MySQL, SQLite, Redis, Memcached, ElasticSearch, Algolia
