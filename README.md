@@ -3,13 +3,11 @@
 
 ## I'm web developer
 
-- Favorite stacks: PHP, JS, Python
-- Learning in progress: Go & Rust
+- Favorite stack: PHP, JS, Python
 - Full stack frameworks and platforms: WordPress, WooCommerce, Django, Redmine, WHMCS, FreeScout
-- Micro frameworks: Laravel, Symfony
-- Async frameworks: NodeJS
+- Backend, micro / async frameworks: Laravel, Symfony, NodeJS
 - Frontend: JAMStack, ReactJS, GatsbyJS, SvelteJS, SvelteKit, PWA, SPA, SSG, SSR, Material UI, Bootstrap, TailwindCSS
-- DB: PostgreSQL, MySQL, SQLite, Redis, Memcached, ElasticSearch, Algolia
+- DB: PostgreSQL, MySQL, SQLite, Redis, Elastic, Algolia
 - OS/VM: Linux, Ubuntu, Docker, Vagrant
 - Earlier: 1C, RoR, Delphi
 
