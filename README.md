@@ -3,7 +3,7 @@
 
 ## I'm web developer
 
-- Favorite stack: PHP, JS, Python
+- Favorite stack: JS, PHP, Python
 - Full stack frameworks and platforms: WordPress, WooCommerce, Django, Redmine, WHMCS, FreeScout
 - Backend, micro / async frameworks: Laravel, Symfony, NodeJS
 - Frontend: JAMStack, ReactJS, GatsbyJS, SvelteJS, SvelteKit, PWA, SPA, SSG, SSR, Material UI, Bootstrap, TailwindCSS
