@@ -3,13 +3,13 @@
 
 ## I'm web developer
 
-- Favorite stack: JS, PHP, Python
-- Full stack frameworks and platforms: WordPress, WooCommerce, Django, Redmine, WHMCS, FreeScout
-- Backend, micro / async frameworks: Laravel, Symfony, NodeJS
+- Favorite stack: JS, PHP, Python, Rust
 - Frontend: JAMStack, ReactJS, GatsbyJS, SvelteJS, SvelteKit, PWA, SPA, SSG, SSR, Material UI, Bootstrap, TailwindCSS
-- DB: PostgreSQL, MySQL, SQLite, Redis, Elastic, Algolia
+- Backend: NodeJS, Fastify, Strapi, Laravel, Symfony, RoR
+- Domain frameworks and platforms: WordPress, WooCommerce, Django, Redmine, WHMCS, FreeScout
+- DB: MySQL, PostgreSQL, SQLite, Redis, Algolia, Elastic
 - OS/VM: Linux, Ubuntu, Docker, Vagrant
-- Earlier: 1C, RoR, Delphi
+- Earlier: 1C, RoR, Delphi ...
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=uptimizt alt=uptimizt /> </p>
