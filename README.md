@@ -8,8 +8,7 @@
 - Backend: NodeJS, Fastify, Strapi, Laravel, Symfony, RoR
 - Platforms: WordPress, WooCommerce, Django, Redmine, WHMCS, FreeScout
 - DB: MySQL, PostgreSQL, SQLite, Redis, Algolia, Elastic
-- OS/VM: Linux, Ubuntu, Docker, Vagrant
-- Earlier: 1C, RoR, Delphi ...
+- OS/VM: Linux, Docker, Vagrant
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=uptimizt alt=uptimizt /> </p>
