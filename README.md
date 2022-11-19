@@ -6,7 +6,7 @@
 - Favorite stack: JS & PHP
 - Frontend: JAMStack, ReactJS, NextJS, SvelteJS, PWA, SPA, SSG, SSR, Material UI, Bootstrap, TailwindCSS
 - Backend: NodeJS, Fastify, Strapi, Laravel, Symfony, RoR
-- Platforms: WordPress, WooCommerce, Django, Redmine, FreeScout, WHMCS
+- Platforms: WordPress, WooCommerce, Redmine, FreeScout, WHMCS
 - DB: MySQL, PostgreSQL, SQLite, Redis, Algolia, Elastic
 - OS/VM/CI/CD: Linux, Docker, Vagrant, GitLab CI, GitHub Actions
 - Tools: VS Code, Notion, Figma
