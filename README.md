@@ -3,12 +3,13 @@
 
 ## I'm web developer & software engineer
 
-- Favorite stack: JS, PHP, Python & Rust
-- Frontend: JAMStack, ReactJS, GatsbyJS, SvelteJS, SvelteKit, PWA, SPA, SSG, SSR, Material UI, Bootstrap, TailwindCSS
+- Favorite stack: JS & PHP
+- Frontend: JAMStack, ReactJS, NextJS, SvelteJS, PWA, SPA, SSG, SSR, Material UI, Bootstrap, TailwindCSS
 - Backend: NodeJS, Fastify, Strapi, Laravel, Symfony, RoR
-- Platforms: WordPress, WooCommerce, Django, Redmine, WHMCS, FreeScout
+- Platforms: WordPress, WooCommerce, Django, Redmine, FreeScout, WHMCS
 - DB: MySQL, PostgreSQL, SQLite, Redis, Algolia, Elastic
 - OS/VM: Linux, Docker, Vagrant
+- Tools: VS Code, Notion, Figma
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=uptimizt alt=uptimizt /> </p>
