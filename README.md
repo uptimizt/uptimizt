@@ -8,7 +8,7 @@
 - Backend: NodeJS, Fastify, Strapi, Laravel, Symfony, RoR
 - Platforms: WordPress, WooCommerce, Django, Redmine, FreeScout, WHMCS
 - DB: MySQL, PostgreSQL, SQLite, Redis, Algolia, Elastic
-- OS/VM: Linux, Docker, Vagrant
+- OS/VM/CI/CD: Linux, Docker, Vagrant, GitLab CI, GitHub Actions
 - Tools: VS Code, Notion, Figma
 
 ## Some of my Github Stats
