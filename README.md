@@ -3,7 +3,7 @@
 
 ## I'm web developer & software engineer
 
-- Favorite stack: JS & PHP
+- Main stack: JS & PHP
 - Frontend: JAMStack, ReactJS, NextJS, SvelteJS, PWA, SPA, SSG, SSR, Material UI, Bootstrap, TailwindCSS
 - Backend: NodeJS, Fastify, Strapi, Laravel, Symfony, RoR
 - Platforms: WordPress, WooCommerce, Redmine, FreeScout, WHMCS
